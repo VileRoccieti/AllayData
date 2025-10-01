@@ -1,0 +1,197 @@
+10123123,Samsung S23 Ultra,4100000,14-04-2025,Samsung Electronics,Tecnologia,exito,0.1,198,Pequeño,Habilitado,Ligero
+12412421,iPhone 13 Pro Max,3200000,14-04-2025,Apple Inc.,Tecnologia,exito,0.1,444,Pequeño,Habilitado,Ligero
+10234567,MacBook Pro 16,5200000,20-04-2025,Apple Inc.,Tecnologia,compumarket,0.5,100,Mediano,Habilitado,Ligero
+21345678,PlayStation 5,7000000,22-04-2025,Sony,Tecnologia,gamershop,2,149,Mediano,Habilitado,Ligero
+32198765,Xbox Series X,6500000,25-04-2025,Microsoft,Tecnologia,gamershop,2,200,Mediano,Habilitado,Ligero
+78965412,Google Pixel 6,2800000,18-04-2025,Google,Tecnologia,exito,0.2,297,Pequeño,Habilitado,Ligero
+10198765,Smartwatch Galaxy,1500000,15-04-2025,Samsung Electronics,Tecnologia,techshop,0.05,500,Pequeño,Habilitado,Ligero
+14725836,AirPods Pro,4000000,10-04-2025,Apple Inc.,Tecnologia,techshop,0.01,596,Pequeño,Habilitado,Ligero
+26547890,Dell XPS 13,3500000,30-04-2025,Dell,Tecnologia,compumarket,1,120,Pequeño,Habilitado,Ligero
+57384920,Lenovo ThinkPad X1,4000000,28-04-2025,Lenovo,Tecnologia,compumarket,1.2,250,Mediano,Habilitado,Ligero
+64583910,HP Spectre x360,4500000,05-05-2025,HP,Tecnologia,compumarket,1,179,Mediano,Habilitado,Ligero
+11023456,Asus ROG Zephyrus,6000000,02-05-2025,Asus,Tecnologia,gamershop,1.5,195,Mediano,Habilitado,Ligero
+45398764,Razer Blade 15,6500000,03-05-2025,Razer,Tecnologia,gamershop,1.4,150,Mediano,Habilitado,Ligero
+87654321,Nintendo Switch,4000000,07-05-2025,Nintendo,Tecnologia,gamershop,0.5,400,Pequeño,Habilitado,Ligero
+21098765,Fitbit Charge 5,2000000,12-05-2025,Fitbit,Tecnologia,healthshop,0.1,300,Pequeño,Habilitado,Ligero
+11122233,Apple Watch Series 7,5500000,14-05-2025,Apple Inc.,Tecnologia,techshop,0.1,349,Pequeño,Habilitado,Ligero
+55566677,Microsoft Surface Laptop 4,7000000,17-05-2025,Microsoft,Tecnologia,compumarket,1.2,100,Mediano,Habilitado,Ligero
+90987654,Sony WH-1000XM4,5000000,20-05-2025,Sony,Tecnologia,techshop,0.2,200,Pequeño,Habilitado,Ligero
+23456789,Bose QuietComfort 35 II,4500000,25-05-2025,Bose,Tecnologia,techshop,0.3,250,Pequeño,Habilitado,Ligero
+34567890,JBL Flip 5,1800000,30-05-2025,JBL,Tecnologia,techshop,0.6,500,Pequeño,Habilitado,Ligero
+87651234,Kindle Paperwhite,1800000,02-06-2025,Amazon,Tecnologia,exito,0.1,400,Pequeño,Habilitado,Ligero
+98765432,Echo Dot 4,2500000,05-06-2025,Amazon,Tecnologia,exito,0.2,600,Pequeño,Habilitado,Ligero
+12121212,GoPro Hero 10,3500000,10-06-2025,GoPro,Tecnologia,adventureshop,0.3,250,Pequeño,Habilitado,Ligero
+23232323,Apple AirTag,1200000,15-06-2025,Apple Inc.,Tecnologia,techshop,0.02,800,Pequeño,Habilitado,Ligero
+34343434,Logitech G Pro X,1500000,18-06-2025,Logitech,Tecnologia,gamershop,0.1,299,Pequeño,Habilitado,Ligero
+45454545,SteelSeries Arctis 7,2000000,20-06-2025,SteelSeries,Tecnologia,gamershop,0.3,200,Pequeño,Habilitado,Ligero
+56565656,HyperX Cloud II,1800000,22-06-2025,HyperX,Tecnologia,gamershop,0.4,400,Pequeño,Habilitado,Ligero
+67676767,Elgato Stream Deck,4000000,25-06-2025,Elgato,Tecnologia,gamershop,0.2,150,Pequeño,Habilitado,Ligero
+78787878,Philips Hue White,2500000,28-06-2025,Philips,Tecnologia,homeshop,0.5,300,Pequeño,Habilitado,Ligero
+89898989,Samsung QLED TV,15000000,05-07-2025,Samsung Electronics,Tecnologia,exito,20,50,Grande,Habilitado,Ligero
+90909090,LG OLED TV,20000000,08-07-2025,LG,Tecnologia,exito,25,30,Grande,Habilitado,Ligero
+10101010,Beats Studio3,5000000,12-07-2025,Beats,Tecnologia,techshop,0.3,150,Pequeño,Habilitado,Ligero
+12121212,Anker PowerCore 20100,1500000,14-07-2025,Anker,Tecnologia,techshop,0.4,500,Pequeño,Habilitado,Ligero
+13131313,Microsoft Xbox Controller,1500000,18-07-2025,Microsoft,Tecnologia,gamershop,0.3,400,Pequeño,Habilitado,Ligero
+14141414,Apple Magic Mouse,2500000,20-07-2025,Apple Inc.,Tecnologia,techshop,0.1,600,Pequeño,Habilitado,Ligero
+15151515,Alienware Aurora R11,12000000,25-07-2025,Dell,Tecnologia,gamershop,5,50,Grande,Habilitado,Ligero
+16161616,Razer Huntsman Elite,3500000,28-07-2025,Razer,Tecnologia,gamershop,1,300,Mediano,Habilitado,Ligero
+17171717,Logitech G502 Hero,2000000,30-07-2025,Logitech,Tecnologia,gamershop,0.3,400,Pequeño,Habilitado,Ligero
+18181818,Amazon Fire TV Stick,1500000,02-08-2025,Amazon,Tecnologia,exito,0.1,500,Pequeño,Habilitado,Ligero
+19191919,Wyze Cam Pan,2000000,05-08-2025,Wyze,Tecnologia,homeshop,0.3,350,Pequeño,Habilitado,Ligero
+20202020,GoPro Hero 9,4000000,10-08-2025,GoPro,Tecnologia,adventureshop,0.3,200,Pequeño,Habilitado,Ligero
+21212121,Philips Sonicare,3000000,12-08-2025,Philips,Tecnologia,homeshop,0.1,400,Pequeño,Habilitado,Ligero
+22222222,Nikon D3500,5500000,15-08-2025,Nikon,Tecnologia,adventureshop,0.9,150,Mediano,Habilitado,Ligero
+23232323,Canon EOS Rebel T7,6000000,18-08-2025,Canon,Tecnologia,adventureshop,1,100,Mediano,Habilitado,Ligero
+24242424,GoPro Hero 8,3000000,20-08-2025,GoPro,Tecnologia,adventureshop,0.4,250,Pequeño,Habilitado,Ligero
+25252525,Garmin Forerunner 945,5000000,25-08-2025,Garmin,Tecnologia,healthshop,0.1,300,Pequeño,Habilitado,Ligero
+26262626,Samsung Galaxy Tab S7,3500000,28-08-2025,Samsung Electronics,Tecnologia,exito,0.5,200,Mediano,Habilitado,Ligero
+30197448,Elgato Key Light,5142244,29-07-2025,Nintendo,Tecnologia,techshop,8.54,303,Grande,Habilitado,Ligero
+14152869,iPhone 14 Pro,18444348,23-04-2025,Samsung Electronics,Tecnologia,compumarket,2.29,609,Mediano,Habilitado,Ligero
+87204267,Wyze Cam v3,2625650,21-09-2025,Beats,Tecnologia,adventureshop,1.58,227,Mediano,Habilitado,Ligero
+34544603,JBL Charge 5,10521519,10-05-2025,Asus,Tecnologia,gamershop,9.1,254,Grande,Habilitado,Ligero
+18473087,Surface Pro 8,15410808,21-05-2025,Razer,Tecnologia,compumarket,0.1,623,Pequeño,Habilitado,Ligero
+91529690,HP Envy 13,5172847,27-04-2025,Razer,Tecnologia,techshop,0.03,258,Pequeño,Habilitado,Ligero
+30798230,Elgato Key Light,9931615,19-04-2025,Dell,Tecnologia,exito,1.0,235,Mediano,Habilitado,Ligero
+39230689,Beats Fit Pro,13281409,05-04-2025,Microsoft,Tecnologia,healthshop,1.29,262,Mediano,Habilitado,Ligero
+55558717,Kindle Oasis,2707608,14-05-2025,JBL,Tecnologia,homeshop,9.93,768,Grande,Habilitado,Ligero
+60631808,Pixel 7 Pro,1953418,04-09-2025,Philips,Tecnologia,healthshop,2.61,201,Grande,Habilitado,Ligero
+79917467,Nikon Z50,19317528,17-07-2025,Wyze,Tecnologia,gamershop,0.05,119,Pequeño,Habilitado,Ligero
+43561852,Switch OLED,18931897,04-08-2025,Samsung Electronics,Tecnologia,techshop,8.71,560,Grande,Habilitado,Ligero
+78179568,Echo Show 8,18105736,18-05-2025,HyperX,Tecnologia,compumarket,5.62,704,Grande,Habilitado,Ligero
+97458702,Beats Fit Pro,17278484,03-08-2025,Asus,Tecnologia,exito,0.31,470,Pequeño,Habilitado,Ligero
+57823889,HyperX Pulsefire,19425247,31-05-2025,Asus,Tecnologia,exito,4.36,613,Grande,Habilitado,Ligero
+50853054,Switch OLED,19752725,26-05-2025,Nintendo,Tecnologia,compumarket,0.17,613,Pequeño,Habilitado,Ligero
+39509027,Canon EOS R10,8431375,31-08-2025,Nikon,Tecnologia,exito,0.47,430,Pequeño,Habilitado,Ligero
+62915152,Garmin Venu Sq,11596607,18-07-2025,Dell,Tecnologia,techshop,0.92,81,Mediano,Habilitado,Ligero
+22867639,Beats Fit Pro,7947709,16-05-2025,Amazon,Tecnologia,homeshop,0.04,239,Pequeño,Habilitado,Ligero
+50034329,Garmin Venu Sq,1377737,13-07-2025,Amazon,Tecnologia,healthshop,1.09,525,Mediano,Habilitado,Ligero
+85299882,HP Envy 13,1740271,16-07-2025,Dell,Tecnologia,healthshop,2.44,481,Mediano,Habilitado,Ligero
+60294258,LG NanoCell TV,11482402,31-08-2025,Dell,Tecnologia,exito,0.22,518,Pequeño,Habilitado,Ligero
+93303383,Switch OLED,4711249,25-08-2025,GoPro,Tecnologia,gamershop,3.33,589,Grande,Habilitado,Ligero
+32389870,Garmin Venu Sq,10974555,05-07-2025,Wyze,Tecnologia,adventureshop,0.27,553,Pequeño,Habilitado,Ligero
+58758100,Anker Soundcore,6255015,30-09-2025,Sony,Tecnologia,healthshop,5.19,169,Grande,Habilitado,Ligero
+48933442,Echo Show 8,11071449,03-05-2025,Dell,Tecnologia,gamershop,3.74,307,Grande,Habilitado,Ligero
+93397015,Canon EOS R10,7133753,10-04-2025,Sony,Tecnologia,gamershop,0.51,260,Mediano,Habilitado,Ligero
+52747364,iPhone 14 Pro,1959186,01-08-2025,Samsung Electronics,Tecnologia,gamershop,1.95,254,Mediano,Habilitado,Ligero
+62912375,Philips Ambilight TV,1805679,10-06-2025,LG,Tecnologia,healthshop,9.98,212,Grande,Habilitado,Ligero
+98644298,Arctis Nova Pro,4513076,30-09-2025,Samsung Electronics,Tecnologia,adventureshop,0.27,761,Pequeño,Habilitado,Ligero
+41547889,Philips Ambilight TV,4789790,16-06-2025,Samsung Electronics,Tecnologia,compumarket,0.17,651,Pequeño,Habilitado,Ligero
+92501752,GoPro Hero 11,18181478,02-08-2025,Alienware,Tecnologia,homeshop,0.19,226,Pequeño,Habilitado,Ligero
+56546784,LG NanoCell TV,5595569,14-04-2025,HP,Tecnologia,compumarket,2.03,393,Mediano,Habilitado,Ligero
+61426111,Anker Soundcore,10286797,03-06-2025,Lenovo,Tecnologia,adventureshop,0.05,798,Pequeño,Habilitado,Ligero
+99598798,LG NanoCell TV,15517225,03-09-2025,GoPro,Tecnologia,compumarket,1.05,624,Mediano,Habilitado,Ligero
+34225699,Garmin Venu Sq,16571408,29-09-2025,HP,Tecnologia,gamershop,4.5,169,Grande,Habilitado,Ligero
+89359041,Echo Show 8,10723951,21-06-2025,Bose,Tecnologia,gamershop,0.29,367,Pequeño,Habilitado,Ligero
+22753410,Xperia 1 V,2757782,20-06-2025,Fitbit,Tecnologia,adventureshop,2.16,695,Mediano,Habilitado,Ligero
+25356298,Elgato Key Light,14521806,10-09-2025,Bose,Tecnologia,gamershop,6.19,469,Grande,Habilitado,Ligero
+67166801,JBL Charge 5,1283494,03-08-2025,Asus,Tecnologia,homeshop,8.32,746,Grande,Habilitado,Ligero
+88011481,LG NanoCell TV,12056377,28-04-2025,Lenovo,Tecnologia,adventureshop,8.02,640,Grande,Habilitado,Ligero
+55677698,Alienware X17,13869095,04-05-2025,HyperX,Tecnologia,homeshop,8.63,235,Grande,Habilitado,Ligero
+77885984,Anker Soundcore,13115656,06-04-2025,LG,Tecnologia,adventureshop,0.44,106,Pequeño,Habilitado,Ligero
+97924615,Surface Pro 8,4340424,10-05-2025,Beats,Tecnologia,healthshop,1.28,449,Mediano,Habilitado,Ligero
+86201206,Beats Fit Pro,16571402,14-07-2025,Canon,Tecnologia,healthshop,0.41,233,Pequeño,Habilitado,Ligero
+24312754,Nikon Z50,18420148,04-04-2025,Sony,Tecnologia,adventureshop,7.11,132,Grande,Habilitado,Ligero
+79905464,iPhone 14 Pro,4808143,22-08-2025,JBL,Tecnologia,gamershop,0.32,541,Pequeño,Habilitado,Ligero
+58717123,Anker Soundcore,9095602,25-05-2025,Samsung Electronics,Tecnologia,gamershop,1.94,708,Mediano,Habilitado,Ligero
+95171744,Fitbit Versa 3,13559460,19-04-2025,Philips,Tecnologia,gamershop,8.79,450,Grande,Habilitado,Ligero
+27128384,Wyze Cam v3,19891573,06-09-2025,Garmin,Tecnologia,gamershop,0.39,292,Pequeño,Habilitado,Ligero
+15918641,Garmin Venu Sq,17356362,08-04-2025,Philips,Tecnologia,compumarket,0.41,495,Pequeño,Habilitado,Ligero
+25134861,Switch OLED,9512871,07-05-2025,Anker,Tecnologia,compumarket,1.02,658,Mediano,Habilitado,Ligero
+59851528,Surface Pro 8,11120740,07-04-2025,Philips,Tecnologia,techshop,0.26,319,Pequeño,Habilitado,Ligero
+56270156,Nikon Z50,5502273,22-08-2025,HyperX,Tecnologia,techshop,3.44,614,Grande,Habilitado,Ligero
+30557518,Asus ZenBook Duo,8697709,22-05-2025,Garmin,Tecnologia,compumarket,0.65,231,Mediano,Habilitado,Ligero
+71343249,Anker Soundcore,2806599,06-05-2025,Elgato,Tecnologia,techshop,0.24,317,Pequeño,Habilitado,Ligero
+69609086,Alienware X17,17152490,18-07-2025,Sony,Tecnologia,homeshop,0.01,745,Pequeño,Habilitado,Ligero
+50435538,Pixel 7 Pro,14522217,23-05-2025,Alienware,Tecnologia,adventureshop,0.07,166,Pequeño,Habilitado,Ligero
+82020725,Switch OLED,14693218,05-07-2025,Canon,Tecnologia,adventureshop,2.4,465,Mediano,Habilitado,Ligero
+77383601,Garmin Venu Sq,11403242,01-06-2025,Samsung Electronics,Tecnologia,compumarket,0.34,553,Pequeño,Habilitado,Ligero
+16010058,Galaxy Book3,5078373,12-05-2025,GoPro,Tecnologia,healthshop,1.94,141,Mediano,Habilitado,Ligero
+68170034,Beats Fit Pro,9421272,20-05-2025,Dell,Tecnologia,adventureshop,0.44,75,Pequeño,Habilitado,Ligero
+36198508,Razer Kishi,6376783,19-08-2025,HyperX,Tecnologia,homeshop,8.89,266,Grande,Habilitado,Ligero
+38753710,Razer Kishi,10421953,12-08-2025,LG,Tecnologia,healthshop,0.43,785,Pequeño,Habilitado,Ligero
+88042479,Nikon Z50,16746430,12-08-2025,Lenovo,Tecnologia,gamershop,7.9,72,Grande,Habilitado,Ligero
+53736347,GoPro Hero 11,11968555,24-07-2025,HyperX,Tecnologia,exito,0.43,437,Pequeño,Habilitado,Ligero
+99409766,Philips Ambilight TV,17765579,02-04-2025,Wyze,Tecnologia,adventureshop,0.3,152,Pequeño,Habilitado,Ligero
+20659423,GoPro Hero 11,16921335,18-06-2025,Canon,Tecnologia,techshop,0.29,362,Pequeño,Habilitado,Ligero
+95881110,Surface Pro 8,7505025,10-06-2025,GoPro,Tecnologia,exito,0.16,643,Pequeño,Habilitado,Ligero
+82235518,Asus ZenBook Duo,3791675,09-06-2025,Samsung Electronics,Tecnologia,gamershop,1.04,86,Mediano,Habilitado,Ligero
+81825401,Anker Soundcore,16232958,09-09-2025,Nintendo,Tecnologia,gamershop,0.02,624,Pequeño,Habilitado,Ligero
+47058167,JBL Charge 5,10379158,22-07-2025,Nikon,Tecnologia,techshop,0.29,739,Pequeño,Habilitado,Ligero
+24869452,Bose 700,2458746,26-05-2025,SteelSeries,Tecnologia,gamershop,8.48,112,Grande,Habilitado,Ligero
+12767747,Kindle Oasis,15576726,31-07-2025,Sony,Tecnologia,compumarket,7.09,160,Grande,Habilitado,Ligero
+62750843,Echo Show 8,19741111,31-05-2025,Bose,Tecnologia,homeshop,6.0,634,Grande,Habilitado,Ligero
+45525178,Anker Soundcore,19589323,15-05-2025,Bose,Tecnologia,homeshop,0.05,576,Pequeño,Habilitado,Ligero
+89820205,iPhone 14 Pro,14541486,29-07-2025,Philips,Tecnologia,compumarket,0.16,790,Pequeño,Habilitado,Ligero
+69268554,Asus ZenBook Duo,4748521,23-08-2025,Dell,Tecnologia,homeshop,2.34,278,Mediano,Habilitado,Ligero
+41456568,Elgato Key Light,2222672,20-07-2025,Apple Inc.,Tecnologia,adventureshop,4.98,734,Grande,Habilitado,Ligero
+64200710,GoPro Hero 11,2031692,02-04-2025,Alienware,Tecnologia,gamershop,4.31,729,Grande,Habilitado,Ligero
+80001612,Echo Show 8,11628352,30-08-2025,Google,Tecnologia,homeshop,0.67,298,Mediano,Habilitado,Ligero
+61645089,Philips Ambilight TV,12719607,09-05-2025,Wyze,Tecnologia,techshop,6.13,60,Grande,Habilitado,Ligero
+58234798,Canon EOS R10,2393250,21-06-2025,Sony,Tecnologia,techshop,2.09,277,Mediano,Habilitado,Ligero
+31610245,Logitech MX Master 3,11455107,01-08-2025,JBL,Tecnologia,exito,2.0,49,Mediano,Habilitado,Ligero
+47955187,Wyze Cam v3,9914432,31-07-2025,Microsoft,Tecnologia,techshop,2.12,117,Mediano,Habilitado,Ligero
+78637926,Echo Show 8,16542651,27-05-2025,Asus,Tecnologia,exito,0.48,644,Pequeño,Habilitado,Ligero
+84501153,LG NanoCell TV,13080487,30-04-2025,Alienware,Tecnologia,gamershop,0.87,563,Mediano,Habilitado,Ligero
+98623150,Asus ZenBook Duo,14584672,02-09-2025,Anker,Tecnologia,adventureshop,0.75,96,Mediano,Habilitado,Ligero
+23801462,GoPro Hero 11,15687038,17-07-2025,Amazon,Tecnologia,gamershop,1.8,121,Mediano,Habilitado,Ligero
+43920957,Nikon Z50,10915553,29-05-2025,Amazon,Tecnologia,homeshop,4.9,467,Grande,Habilitado,Ligero
+65990013,Pixel 7 Pro,2746817,12-08-2025,Razer,Tecnologia,techshop,0.05,412,Pequeño,Habilitado,Ligero
+22144039,iPhone 14 Pro,15806348,16-05-2025,Nikon,Tecnologia,compumarket,0.15,145,Pequeño,Habilitado,Ligero
+72740652,Xperia 1 V,14879375,06-09-2025,SteelSeries,Tecnologia,gamershop,1.68,115,Mediano,Habilitado,Ligero
+58847117,Galaxy Book3,8884265,06-05-2025,Lenovo,Tecnologia,homeshop,0.37,537,Pequeño,Habilitado,Ligero
+42869959,JBL Charge 5,18734182,06-05-2025,Wyze,Tecnologia,exito,3.99,179,Grande,Habilitado,Ligero
+23729355,JBL Charge 5,16580977,28-08-2025,SteelSeries,Tecnologia,healthshop,0.18,623,Pequeño,Habilitado,Ligero
+92272135,HyperX Pulsefire,9777527,04-09-2025,Google,Tecnologia,compumarket,1.18,370,Mediano,Habilitado,Ligero
+11983466,Razer Kishi,8836400,10-08-2025,Canon,Tecnologia,compumarket,0.12,577,Pequeño,Habilitado,Ligero
+97697091,Beats Fit Pro,15999238,06-07-2025,Razer,Tecnologia,adventureshop,8.76,486,Grande,Habilitado,Ligero
+43037750,Alienware X17,13253058,19-09-2025,Apple Inc.,Tecnologia,exito,5.86,196,Grande,Habilitado,Ligero
+80679277,Echo Show 8,11971480,29-09-2025,Apple Inc.,Tecnologia,techshop,0.25,574,Pequeño,Habilitado,Ligero
+65546604,Asus ZenBook Duo,12749381,04-06-2025,Nintendo,Tecnologia,gamershop,1.11,138,Mediano,Habilitado,Ligero
+49128609,Nikon Z50,6536711,02-08-2025,Garmin,Tecnologia,compumarket,1.95,689,Mediano,Habilitado,Ligero
+91103181,Bose 700,7332794,06-06-2025,Dell,Tecnologia,adventureshop,0.42,492,Pequeño,Habilitado,Ligero
+16686468,Garmin Venu Sq,18118477,19-06-2025,Elgato,Tecnologia,homeshop,0.01,768,Pequeño,Habilitado,Ligero
+47658921,Bose 700,13653990,02-07-2025,Canon,Tecnologia,compumarket,7.79,730,Grande,Habilitado,Ligero
+14355860,Bose 700,12202573,10-08-2025,Fitbit,Tecnologia,compumarket,2.45,333,Mediano,Habilitado,Ligero
+10034746,Razer Kishi,5210870,30-04-2025,Asus,Tecnologia,techshop,3.01,448,Grande,Habilitado,Ligero
+11461928,Dell Alienware M15,17173466,28-05-2025,Apple Inc.,Tecnologia,adventureshop,5.14,659,Grande,Habilitado,Ligero
+41662612,Wyze Cam v3,9219181,08-06-2025,Fitbit,Tecnologia,adventureshop,0.1,314,Pequeño,Habilitado,Ligero
+20869310,HP Envy 13,16254919,01-04-2025,Canon,Tecnologia,compumarket,0.04,299,Pequeño,Habilitado,Ligero
+54712901,Canon EOS R10,14130469,28-09-2025,JBL,Tecnologia,compumarket,0.31,793,Pequeño,Habilitado,Ligero
+47140185,Philips Ambilight TV,9390018,17-04-2025,Apple Inc.,Tecnologia,homeshop,3.58,541,Grande,Habilitado,Ligero
+60761731,HyperX Pulsefire,15185661,04-05-2025,Bose,Tecnologia,healthshop,1.09,323,Mediano,Habilitado,Ligero
+18445162,Kindle Oasis,14320389,13-07-2025,Alienware,Tecnologia,healthshop,1.91,665,Mediano,Habilitado,Ligero
+20715723,Kindle Oasis,7338287,01-07-2025,Alienware,Tecnologia,homeshop,0.97,609,Mediano,Habilitado,Ligero
+58708407,Arctis Nova Pro,7659089,02-05-2025,LG,Tecnologia,homeshop,0.22,204,Pequeño,Habilitado,Ligero
+68687006,Alienware X17,1229119,24-05-2025,Google,Tecnologia,gamershop,3.3,289,Grande,Habilitado,Ligero
+72327416,Canon EOS R10,6958658,25-09-2025,Razer,Tecnologia,compumarket,0.17,344,Pequeño,Habilitado,Ligero
+38811669,Switch OLED,17532525,15-09-2025,HP,Tecnologia,techshop,1.96,341,Mediano,Habilitado,Ligero
+37338710,Bose 700,10012598,08-05-2025,Philips,Tecnologia,compumarket,0.52,619,Mediano,Habilitado,Ligero
+38841346,Galaxy Book3,12862578,28-07-2025,Nintendo,Tecnologia,healthshop,8.58,89,Grande,Habilitado,Ligero
+28501725,Fitbit Versa 3,15505374,23-09-2025,Microsoft,Tecnologia,exito,0.12,201,Pequeño,Habilitado,Ligero
+89363421,HyperX Pulsefire,6842131,17-08-2025,HyperX,Tecnologia,adventureshop,1.17,581,Mediano,Habilitado,Ligero
+75641137,JBL Charge 5,1877382,28-08-2025,Google,Tecnologia,adventureshop,0.25,530,Pequeño,Habilitado,Ligero
+36760876,Philips Ambilight TV,10023726,21-05-2025,Philips,Tecnologia,compumarket,2.05,539,Mediano,Habilitado,Ligero
+24585318,Garmin Venu Sq,12832697,01-07-2025,LG,Tecnologia,healthshop,6.59,211,Grande,Habilitado,Ligero
+53157793,Logitech MX Master 3,13851501,12-06-2025,Wyze,Tecnologia,healthshop,5.78,650,Grande,Habilitado,Ligero
+45434072,Canon EOS R10,2827934,08-09-2025,LG,Tecnologia,gamershop,0.5,379,Pequeño,Habilitado,Ligero
+73108176,GoPro Hero 11,2919403,10-07-2025,Asus,Tecnologia,homeshop,1.27,442,Mediano,Habilitado,Ligero
+20831830,Asus ZenBook Duo,3670476,07-09-2025,Sony,Tecnologia,adventureshop,5.86,476,Grande,Habilitado,Ligero
+84274797,Beats Fit Pro,7557096,31-05-2025,Amazon,Tecnologia,exito,0.41,739,Pequeño,Habilitado,Ligero
+42510970,Surface Pro 8,19595128,20-09-2025,Logitech,Tecnologia,healthshop,4.6,529,Grande,Habilitado,Ligero
+57055103,HP Envy 13,11559715,23-06-2025,Razer,Tecnologia,techshop,1.38,100,Mediano,Habilitado,Ligero
+20193300,Elgato Key Light,6013647,26-09-2025,Nintendo,Tecnologia,healthshop,0.02,126,Pequeño,Habilitado,Ligero
+93359912,Adidas Ultraboost,391445,17-04-2025,Adidas,Varios,techshop,0.33,397,Pequeño,Habilitado,Ligero
+10467155,Coca Cola Zero,99672,02-07-2025,Adidas,Varios,compumarket,0.51,188,Pequeño,Habilitado,Ligero
+98658309,Puma Future Rider,656603,03-07-2025,Levi's,Varios,adventureshop,0.86,336,Pequeño,Habilitado,Ligero
+91961943,Nike Air Max,310080,01-04-2025,Adidas,Varios,adventureshop,0.97,116,Pequeño,Habilitado,Ligero
+82664819,Coca Cola Zero,173023,07-04-2025,Puma,Varios,homeshop,0.87,225,Pequeño,Habilitado,Ligero
+75484783,Adidas Ultraboost,477941,07-05-2025,Levi's,Varios,exito,0.84,169,Pequeño,Habilitado,Ligero
+30914275,Adidas Ultraboost,768746,17-06-2025,Adidas,Varios,exito,0.7,255,Pequeño,Habilitado,Ligero
+60052916,Nike Air Max,361738,08-04-2025,Nike,Varios,homeshop,0.71,255,Pequeño,Habilitado,Ligero
+32104243,Adidas Ultraboost,464474,22-05-2025,Adidas,Varios,healthshop,0.54,307,Pequeño,Habilitado,Ligero
+47591649,Adidas Ultraboost,198116,19-07-2025,Nike,Varios,exito,1.01,438,Pequeño,Habilitado,Ligero
+21746300,Nike Air Max,536100,23-06-2025,Puma,Varios,homeshop,1.09,128,Pequeño,Habilitado,Ligero
+93973732,Adidas Ultraboost,470467,06-04-2025,Levi's,Varios,homeshop,0.36,133,Pequeño,Habilitado,Ligero
+20672764,Puma Future Rider,105806,25-06-2025,Coca Cola,Varios,adventureshop,0.72,487,Pequeño,Habilitado,Ligero
+87879157,Puma Future Rider,149344,27-06-2025,Adidas,Varios,healthshop,0.93,357,Pequeño,Habilitado,Ligero
+72861913,Coca Cola Zero,304539,15-07-2025,Puma,Varios,healthshop,0.43,405,Pequeño,Habilitado,Ligero

@@ -1,0 +1,15 @@
+NOT000001,1,14-04-2025,20:53,Pago exitoso,Tu pago ha sido procesado exitosamente. Orden registrada.,No Leído,Alta
+NOT000002,1,14-04-2025,20:53,Pago exitoso,Tu pago ha sido procesado exitosamente. Orden registrada.,No Leído,Alta
+NOT000003,1,14-04-2025,20:57,Pago exitoso,Tu pago ha sido procesado exitosamente. Orden registrada.,No Leído,Alta
+NOT000004,1,14-04-2025,20:59,Pago fallido,Tu pago no ha sido procesado correctamente. Intenta nuevamente.,No Leído,Alta
+NOT000005,1,14-04-2025,21:00,Pago fallido,Tu pago no ha sido procesado correctamente. Intenta nuevamente.,Leído,Alta
+NOT000006,2,14-04-2025,21:16,Actualización de usuario,Tus datos han sido actualizados correctamente.,No Leído,Normal
+NOT000009,5,14-04-2025,21:18,Actualización de usuario,Tus datos han sido actualizados correctamente.,No Leído,Normal
+NOT000007,6,14-04-2025,21:21,Actualización de usuario,Tus datos han sido actualizados correctamente.,No Leído,Normal
+NOT000008,7,14-04-2025,21:21,Actualización de usuario,Tus datos han sido actualizados correctamente.,No Leído,Normal
+NOT000010,95,14-04-2025,21:22,Actualización de usuario,Tus datos han sido actualizados correctamente.,No Leído,Normal
+NOT000011,94,14-04-2025,21:22,Actualización de usuario,Tus datos han sido actualizados correctamente.,No Leído,Normal
+NOT000012,31,14-04-2025,21:24,Actualización de usuario,Tus datos han sido actualizados correctamente.,No Leído,Normal
+NOT000013,1,14-04-2025,21:50,Pago exitoso,Tu pago ha sido procesado exitosamente. Orden registrada.,No Leído,Alta
+NOT000014,1,14-04-2025,21:57,Actualización de estado de orden,El estado de tu orden 62046 ha sido actualizado a: En Ruta,No Leído,Alta
+NOT000015,1,14-04-2025,21:57,Actualización de estado de orden,El estado de tu orden 62046 ha sido actualizado a: En Terminal Destino,No Leído,Alta

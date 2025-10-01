@@ -1,0 +1,13 @@
+1,iphone 12,1200000,hoy,apple,xd,xd,xd,xd,Grande,Habilitado,Ligero
+2,iphone 12,1200000,hoy,apple,xd,xd,xd,xd,Pequeño,Habilitado,Ligero
+3,iphone 12,1200000,hoy,apple,xd,xd,xd,xd,Pequeño,Habilitado,Industrial
+9,iphone 12,1200000,hoy,apple,xd,xd,xd,xd,Pequeño,Habilitado,Ligero
+22,iphone 12,1200000,hoy,apple,xd,saaa,12,22,Pequeño,Habilitado,Ligero
+23,iphone 12,1200000,hoy,apple,xd,saaa,12,22,Pequeño,Habilitado,Ligero
+65,iphone 12,1200000,hoy,apple,xd,xd,xd,xd,Pequeño,Deshabilitado,Ligero
+66,iphone 12,1200000,hoy,apple,xd,xd,xd,xd,Pequeño,Habilitado,Ligero
+67,iphone 12,1200000,hoy,apple,xd,xd,xd,xd,Pequeño,Habilitado,Ligero
+69,iphone 12,1200000,hoy,apple,xd,xd,xd,xd,Pequeño,Habilitado,Ligero
+70,iphone 12,1200000,hoy,apple,xd,xd,xd,xd,Pequeño,Fuera de Stock,Ligero
+71,iphone 12,1200000,hoy,apple,xd,xd,xd,xd,Pequeño,Habilitado,Ligero
+72,iphone 12,1200000,hoy,apple,xd,xd,xd,xd,Pequeño,Habilitado,Ligero

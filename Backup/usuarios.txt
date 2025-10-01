@@ -1,0 +1,6 @@
+1,andres,sss,3123,22,1241241421,amsdiajn,bashdjkasjda,Usuario,Habilitado,123213
+2,felipe,sss,3123,22,1241241421,amsdiajn,bashdjkasjda,Usuario,Habilitado,123213
+3,josee,awdsadaada,223123,22,1241241421,amsdiajn,w3wrewdf,Dueño,Sancionado,123213
+4,josee,awdsadaada,223123,22,1241241421,amsdiajn,w3wrewdf,Dueño,Sancionado,123213
+10,JOSEEEEE,awdsadaada,223123,22,1241241421,amsdiajn,w3wrewdf,Dueño,Sancionado,123213
+11,JOSEEEEE,awdsadaada,223123,22,1241241421,amsdiajn,w3wrewdf,Dueño,Sancionado,123213

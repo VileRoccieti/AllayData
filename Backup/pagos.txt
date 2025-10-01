@@ -1,0 +1,9 @@
+PG2,1,3,hoy,xd,a,Transferencia Bancaria,Bancolombia,Bancolombia,En revisión
+PAY29436,3,3,hoy,xd,a,Transferencia Bancaria,Bancolombia,Bancolombia,En revisión
+PAY664130,4,3,hoy,xd,a,Transferencia Bancaria,Bancolombia,Bancolombia,En revisión
+PAY195106,5,3,hoy,xd,a,Transferencia Bancaria,Bancolombia,Bancolombia,En revisión
+PAY396096,6,3,hoy,xd,a,Transferencia Bancaria,Bancolombia,Bancolombia,En revisión
+PG251903,8,3,hoy,xd,a,Transferencia Bancaria,Bancolombia,Bancolombia,Sancionado
+PAY308629,9,3,hoy,xd,a,Transferencia Bancaria,Banco Itaú,Tpaga,Sancionado
+PAY382951,99,5,aaaaa,xd,a,Pago de Terceros,Banco BBVA Colombia,Movii,En revisión
+PAY270642,100,5,aaaaa,xd,a,Pago de Terceros,Banco BBVA Colombia,Movii,En revisión

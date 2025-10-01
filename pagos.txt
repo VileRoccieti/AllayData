@@ -1,0 +1,21 @@
+PAY857196,14694,1,14-04-2025,3231050.0,Tecnologia,Tarjeta de Crédito,Bancolombia,Bancolombia,En revisión
+PAY567755,64263,1,14-04-2025,131250.0,Tecnologia,Transferencia Bancaria,Bancolombia,Bancolombia,En revisión
+PAY251129,31292,1,14-04-2025,2025000.0,Tecnologia,Efectivo,Efecty (Efectivo),Efecty (Efectivo),En revisión
+PAY877917,7947,1,14-04-2025,2028750.0,Tecnologia,Efectivo,Efecty (Efectivo),Efecty (Efectivo),En revisión
+PAY569023,76897,1,14-04-2025,4023000.0,Tecnologia,Efectivo,Efecty (Efectivo),Efecty (Efectivo),En revisión
+PAY679852,9885,1,14-04-2025,2831250.0,Tecnologia,Efectivo,Efecty (Efectivo),Efecty (Efectivo),En revisión
+PAY953849,66089,1,14-04-2025,6031250.0,Tecnologia,Efectivo,Efecty (Efectivo),Efecty (Efectivo),En revisión
+PAY168334,18714,5,14-04-2025,4031250.0,Tecnologia,Tarjeta de Débito,Bancolombia,Wompi (Bancolombia),En revisión
+PAY97300,--,5,14-04-2025,3525000.0,Tecnologia,Efectivo,Efecty (Efectivo),Efecty (Efectivo),Fallido
+PAY218819,30601,5,14-04-2025,6037500.0,Tecnologia,Transferencia Bancaria,Banco Davivienda,Plataforma Virtual,Completado
+PAY618435,70795,1,14-04-2025,3231250.0,Tecnologia,Efectivo,Efecty (Efectivo),Efecty (Efectivo),En revisión
+PAY27170,33350,5,14-04-2025,5531250.0,Tecnologia,Efectivo,Efecty (Efectivo),Efecty (Efectivo),En revisión
+PAY915317,58097,1,14-04-2025,2825000.0,Tecnologia,Tarjeta de Crédito,Bancolombia,Bancolombia,En revisión
+PAY418046,69394,1,14-04-2025,4031250.0,Tecnologia,Efectivo,Efecty (Efectivo),Efecty (Efectivo),En revisión
+PAY191953,99570,5,14-04-2025,4537500.0,Tecnologia,Efectivo,Efecty (Efectivo),Efecty (Efectivo),En revisión
+PAY954953,62046,1,14-04-2025,4131250.0,Tecnologia,Tarjeta de Débito,Bancolombia,Bancolombia,En revisión
+PAY688218,41995,1,14-04-2025,3225000.0,Tecnologia,Efectivo,Efecty (Efectivo),Efecty (Efectivo),En revisión
+PAY424916,55503,1,14-04-2025,6025000.0,Tecnologia,Pago por PSE,Bancolombia,Bancolombia,En revisión
+PAY390883,--,1,14-04-2025,2.002E7,Tecnologia,Efectivo,Efecty (Efectivo),Efecty (Efectivo),Fallido
+PAY872350,--,1,14-04-2025,3025000.0,Tecnologia,Tarjeta de Débito,Banco de Bogotá,Plataforma Virtual,Fallido
+PAY768114,87107,1,14-04-2025,518750.0,Tecnologia,Tarjeta de Crédito,Bancolombia,Bancolombia,En revisión

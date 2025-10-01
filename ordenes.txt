@@ -1,0 +1,4 @@
+Barranquilla: Cra 43b,Bogota,25000.0,41995,1,3146420637,rvalencia@allay.com,7QEPNALPB4,14-04-2025,17-04-2025,En Espera,Normal,Ligero
+Barranquilla: Calle 87,Bogota,25000.0,55503,1,3146420637,rvalencia@allay.com,Q64JOFV7VD,14-04-2025,17-04-2025,En Espera,Normal,Ligero
+Barranquilla: Cra 51b,Bogota,31250.0,62046,1,3146420637,rvalencia@allay.com,PTTIBJ9Z97,14-04-2025,17-04-2025,En Terminal Destino,Urgente,Ligero
+Barranquilla: Cra 90d,Cartagena,18750.0,87107,1,31587378437,email@email.com,5GK5XUM2OR,14-04-2025,17-04-2025,En Espera,Urgente,Ligero
