@@ -12,7 +12,7 @@
 
 ## 🌟 Puntos Destacados del Desarrollo
 
-Este proyecto ha sido íntegramente desarrollado por mí, Ricardo Valencia, desde la concepción del código hasta el diseño de la interfaz gráfica. A pesar de las limitaciones inherentes a **Java Swing**, se ha puesto un gran énfasis en la profesionalidad y la funcionalidad, logrando una interfaz intuitiva y avanzada. ¡Todo el código y diseño son completamente originales\! 👨‍💻✨
+Este proyecto ha sido íntegramente desarrollado por mí, Ricardo Valencia, desde la concepción del código hasta el diseño de la interfaz gráfica. A pesar de las limitaciones inherentes a **Java Swing**, se ha puesto un gran énfasis en la profesionalidad y la funcionalidad, logrando una interfaz intuitiva y avanzada. ¡Todo el código y diseño son completamente originales! 👨‍💻✨
 
 ---
 
@@ -90,32 +90,56 @@ Aquí tienes un vistazo de cómo luce nuestra aplicación en acción, destacando
 ### 🔑 Inicio de Sesión / Registro
 Una interfaz clara para acceder o crear nuevas cuentas.
 
-[![Inicio de Sesión](https://media.discordapp.net/attachments/1052634745579765791/1424431241842921544/image.png?ex=68e3ec78&is=68e29af8&hm=7827ea9ffe0747796408cd786bb89438d7d8e75f34c97f4952b0c42fc5dc03d7&=&format=webp&quality=lossless&width=676&height=805)](https://media.discordapp.net/attachments/1052634745579765791/1424431241842921544/image.png?ex=68e3ec78&is=68e29af8&hm=7827ea9ffe0747796408cd786bb89438d7d8e75f34c97f4952b0c42fc5dc03d7&=&format=webp&quality=lossless&width=676&height=805)
+[![Inicio de Sesión](https://github.com/VileRoccieti/AllayData/blob/main/assets/im1.webp?raw=true)](https://github.com/VileRoccieti/AllayData/blob/main/assets/im1.webp?raw=true)
 
 ### 🛒 Dashboard de Productos (Estilo Tienda Virtual)
 Explora y gestiona productos con detalles como ID, nombre, costo, marca y stock.
-[![Dashboard de Productos](https://media.discordapp.net/attachments/1052634745579765791/1424431242228535448/image.png?ex=68e3ec78&is=68e29af8&hm=494d732a42db93952e4c4082a862dbadd35e8e3c37734bbae7f2668f22679f07&=&format=webp&quality=lossless&width=1649&height=790)](https://media.discordapp.net/attachments/1052634745579765791/1424431242228535448/image.png?ex=68e3ec78&is=68e29af8&hm=494d732a42db93952e4c4082a862dbadd35e8e3c37734bbae7f2668f22679f07&=&format=webp&quality=lossless&width=1649&height=790)
+[![Dashboard de Productos](https://github.com/VileRoccieti/AllayData/blob/main/assets/im2.webp?raw=true)](https://github.com/VileRoccieti/AllayData/blob/main/assets/im2.webp?raw=true)
 
 ### 💰 Simulador de Pago Avanzado
 Detalles completos para realizar pedidos, incluyendo dirección, método de pago, entidad emisora, estado (pendiente/fallido) y opciones de entrega. ¡Además, los usuarios acumulan fondos por cada compra!
-[![Simulador de Pago](https://media.discordapp.net/attachments/1052634745579765791/1424431242794762370/image.png?ex=68e3ec78&is=68e29af8&hm=4054a02c37a5afdfeb81a7a021609a1349177dd5affa59525ab7860c7f3ed9fc&=&format=webp&quality=lossless&width=1651&height=788)](https://media.discordapp.net/attachments/1052634745579765791/1424431242794762370/image.png?ex=68e3ec78&is=68e29af8&hm=4054a02c37a5afdfeb81a7a021609a1349177dd5affa59525ab7860c7f3ed9fc&=&format=webp&quality=lossless&width=1651&height=788)
+[![Simulador de Pago](https://github.com/VileRoccieti/AllayData/blob/main/assets/im3.webp?raw=true)](https://github.com/VileRoccieti/AllayData/blob/main/assets/im3.webp?raw=true)
 
 ### 👤 Gestión de Usuarios
 Panel de administración para gestionar usuarios, sus roles (Administrador/Normal), estados de cuenta (Habilitado/Deshabilitado/Infracción) y datos personales.
-[![Gestión de Usuarios](https://media.discordapp.net/attachments/1052634745579765791/1424431243549741247/image.png?ex=68e3ec79&is=68e29af9&hm=26b466cd3f6b3bd0ebb4a5815112ec9c70fd9006a5704c6854a7f12da9a69e18&=&format=webp&quality=lossless&width=1563&height=774)](https://media.discordapp.net/attachments/1052634745579765791/1424431243549741247/image.png?ex=68e3ec79&is=68e29af9&hm=26b466cd3f6b3bd0ebb4a5815112ec9c70fd9006a5704c6854a7f12da9a69e18&=&format=webp&quality=lossless&width=1563&height=774)
+[![Gestión de Usuarios](https://github.com/VileRoccieti/AllayData/blob/main/assets/im4.webp?raw=true)](https://github.com/VileRoccieti/AllayData/blob/main/assets/im4.webp?raw=true)
 
 ### 📦 Gestión de Pedidos (Orders Manager)
 Administra todos los pedidos, incluyendo destinos, costos de envío, ID de clientes y el estado actual del paquete (En espera, En ruta, Entregado, etc.).
-[![Gestión de Pedidos](https://media.discordapp.net/attachments/1052634745579765791/1424431243986210867/image.png?ex=68e3ec79&is=68e29af9&hm=5a0365b7fbcd53666cfd896526c379ef4e5d4b17d1532bc8273d82853b98c9a4&=&format=webp&quality=lossless&width=1570&height=781)](https://media.discordapp.net/attachments/1052634745579765791/1424431243986210867/image.png?ex=68e3ec79&is=68e29af9&hm=5a0365b7fbcd53666cfd896526c379ef4e5d4b17d1532bc8273d82853b98c9a4&=&format=webp&quality=lossless&width=1570&height=781)
+[![Gestión de Pedidos](https://github.com/VileRoccieti/AllayData/blob/main/assets/im5.webp?raw=true)](https://github.com/VileRoccieti/AllayData/blob/main/assets/im5.webp?raw=true)
 
 ### 🛍️ Gestión de Productos (Product Manager)
 Control total sobre el inventario, con detalles como ID de producto, nombre, costo, fecha de creación, empresa, tipo, peso, stock y dimensiones.
-[![Gestión de Productos](https://media.discordapp.net/attachments/1052634745579765791/1424431244682334352/image.png?ex=68e3ec79&is=68e29af9&hm=ad24173d70f6a74d46a30fcb9bb5402d3e36715fbe16e165a7f5310d06b1a2e8&=&format=webp&quality=lossless&width=1564&height=775)](https://media.discordapp.net/attachments/1052634745579765791/1424431244682334352/image.png?ex=68e3ec79&is=68e29af9&hm=ad24173d70f6a74d46a30fcb9bb5402d3e36715fbe16e165a7f5310d06b1a2e8&=&format=webp&quality=lossless&width=1564&height=775)
+[![Gestión de Productos](https://github.com/VileRoccieti/AllayData/blob/main/assets/im6.webp?raw=true)](https://github.com/VileRoccieti/AllayData/blob/main/assets/im6.webp?raw=true)
 
 ### 💳 Gestión de Pagos (Payments Manager)
 Supervisa todas las transacciones financieras, incluyendo código de pago, ID de orden, ID de cliente, monto, método de pago, entidad emisora, plataforma y estado del pago.
-[![Gestión de Pagos](https://media.discordapp.net/attachments/1052634745579765791/1424431245114216625/image.png?ex=68e3ec79&is=68e29af9&hm=82bc9705893b203de9b42fae15e0250905062927496e952c2429582edb046915&=&format=webp&quality=lossless&width=1581&height=791)](https://media.discordapp.net/attachments/1052634745579765791/1424431245114216625/image.png?ex=68e3ec79&is=68e29af9&hm=82bc9705893b203de9b42fae15e0250905062927496e952c2429582edb046915&=&format=webp&quality=lossless&width=1581&height=791)
+[![Gestión de Pagos](https://github.com/VileRoccieti/AllayData/blob/main/assets/im7.webp?raw=true)](https://github.com/VileRoccieti/AllayData/blob/main/assets/im7.webp?raw=true)
 
 ### 🔔 Gestión de Notificaciones
 Central de notificaciones para administrar mensajes enviados a los usuarios, con detalles como ID de notificación, ID de usuario, fecha, hora, asunto, mensaje y estado (Leído/No Leído) y prioridad.
-[![Gestión de Notificaciones](
+
+*(Nota: Si tienes una octava imagen para "Gestión de Notificaciones", puedes añadirla aquí con el mismo formato que las demás).*
+
+---
+## 🤝 ¿Quieres Contribuir?
+
+¡Las contribuciones son lo que hace que la comunidad de código abierto sea un lugar increíble para aprender, inspirar y crear! Cualquier contribución que hagas será **muy apreciada**.
+
+Si deseas contribuir, por favor sigue estos pasos:
+
+1.  Haz un **Fork** del proyecto.
+2.  Crea tu propia rama para la nueva funcionalidad (`git checkout -b feature/AmazingFeature`).
+3.  Haz **Commit** de tus cambios (`git commit -m 'Add some AmazingFeature'`).
+4.  Haz **Push** a tu rama (`git push origin feature/AmazingFeature`).
+5.  Abre un **Pull Request**.
+
+---
+
+## 📜 Licencia
+
+Este proyecto está distribuido bajo la Licencia MIT. Consulta el archivo `LICENSE` para más información.
+
+---
+
+¡Gracias por visitar nuestro repositorio! Si te gusta este proyecto, ¡no olvides darle una ⭐!
