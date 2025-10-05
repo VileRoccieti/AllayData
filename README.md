@@ -89,6 +89,7 @@ Aquí tienes un vistazo de cómo luce nuestra aplicación en acción, destacando
 
 ### 🔑 Inicio de Sesión / Registro
 Una interfaz clara para acceder o crear nuevas cuentas.
+
 [![Inicio de Sesión](https://media.discordapp.net/attachments/1052634745579765791/1424431241842921544/image.png?ex=68e3ec78&is=68e29af8&hm=7827ea9ffe0747796408cd786bb89438d7d8e75f34c97f4952b0c42fc5dc03d7&=&format=webp&quality=lossless&width=676&height=805)](https://media.discordapp.net/attachments/1052634745579765791/1424431241842921544/image.png?ex=68e3ec78&is=68e29af8&hm=7827ea9ffe0747796408cd786bb89438d7d8e75f34c97f4952b0c42fc5dc03d7&=&format=webp&quality=lossless&width=676&height=805)
 
 ### 🛒 Dashboard de Productos (Estilo Tienda Virtual)
