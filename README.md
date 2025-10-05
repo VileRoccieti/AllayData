@@ -1,145 +1,145 @@
-# 📊 Allay Data / Allay Nexo: Sistema de Gestión de Datos con Java Swing
+# 📊 Allay Data / Allay Nexo: Data Management System with Java Swing
 
-¡Un completo sistema de gestión de datos que simula una base de datos para usuarios, pedidos, envíos y mucho más, todo con una intuitiva interfaz gráfica construida con Java Swing! 🚀
-
----
-
-## ✨ Descripción General
-
-**Allay Data** es una aplicación de escritorio robusta y fácil de usar diseñada para administrar de manera eficiente la información de usuarios, pedidos, productos y transacciones. Este proyecto no solo permite la manipulación de datos complejos, sino que también ofrece funcionalidades avanzadas como la importación y exportación de datos, gestión de roles de usuario y un sistema de notificaciones. ¡Ideal para aprender sobre desarrollo de software de escritorio con Java y para proyectos que necesiten una base de datos simulada y funcional!
+A complete data management system that simulates a database for users, orders, shipments, and much more, all with an intuitive graphical user interface built with Java Swing! 🚀
 
 ---
 
-## 🌟 Puntos Destacados del Desarrollo
+## ✨ Overview
 
-Este proyecto ha sido íntegramente desarrollado por mí, Ricardo Valencia, desde la concepción del código hasta el diseño de la interfaz gráfica. A pesar de las limitaciones inherentes a **Java Swing**, se ha puesto un gran énfasis en la profesionalidad y la funcionalidad, logrando una interfaz intuitiva y avanzada. ¡Todo el código y diseño son completamente originales! 👨‍💻✨
-
----
-
-## 🚀 Características Principales
-
-Este proyecto está lleno de funcionalidades diseñadas para ofrecer una experiencia de gestión completa:
-
-* **👥 Gestión Avanzada de Usuarios:**
-    * **Registro y Autenticación:** Creación de nuevas cuentas de usuario con credenciales seguras (correo y contraseña).
-    * **Roles de Usuario:** Diferenciación entre **Administradores** y **Usuarios Normales**, cada uno con sus propios permisos.
-    * **Estados de Cuenta:** Manejo de estados de usuario como **Habilitado**, **Deshabilitado** o con **Infracción**.
-    * **Datos Detallados:** Almacenamiento de información completa del usuario: nombre, cédula, número de teléfono y dirección.
-
-* **📦 Gestión de Pedidos y Productos (Estilo Tienda Virtual):**
-    * Creación y seguimiento de **pedidos** con múltiples **productos**.
-    * Manejo de **órdenes** de compra y su estado.
-    * Simulación de **envíos** y **paquetes** asociados a cada pedido con seguimiento detallado.
-    * Interfaz de **Tienda Online** para una navegación de productos intuitiva.
-
-* **💸 Transacciones y Notificaciones Inteligentes:**
-    * Registro de **transacciones financieras** con detalles como método de pago, entidad emisora y plataforma.
-    * Sistema de **notificaciones** para mantener a los usuarios informados sobre el estado de sus pedidos y cuenta, incluyendo mensajes de pago exitoso, fallido o actualizaciones de cuenta.
-    * Sistema de **Fondos de Usuario:** Los usuarios reciben fondos por cada compra, incentivando futuras transacciones.
-
-* **🔄 Importación y Exportación de Datos:**
-    * ¡Lleva tus datos a donde quieras! Exporta la información en formatos `.txt` y `.csv`.
-    * Importa datos fácilmente para poblar la base de datos de manera masiva.
-
-* **💻 Interfaz Gráfica Intuitiva y Detallada:**
-    * Desarrollada completamente con **Java Swing**, ofreciendo una experiencia de usuario clásica y funcional con iconos personalizados.
-    * Diseño organizado y fácil de navegar con paneles dedicados para **Overview**, **Users Manager**, **Orders Manager**, **Product Manager**, **Payments Manager** y **Notifications**.
+**Allay Data** is a robust and user-friendly desktop application designed to efficiently manage user information, orders, products, and transactions. This project not only allows for the manipulation of complex data but also offers advanced functionalities such as data import/export, user role management, and a notification system. It's ideal for learning about desktop software development with Java and for projects that require a functional, simulated database!
 
 ---
 
-## 🛠️ Tecnologías Utilizadas
+## 🌟 Development Highlights
 
-* **Lenguaje de Programación:** **Java** ☕
-* **Interfaz Gráfica:** **Java Swing** 🖼️
-* **IDE Recomendado:** **Apache NetBeans** o **IntelliJ IDEA** (se usó NetBeans principalmente).
+This project was entirely developed by me, Ricardo Valencia, from the initial code conception to the final GUI design. Despite the inherent limitations of **Java Swing**, a strong emphasis was placed on professionalism and functionality, resulting in an intuitive and advanced interface. All code and design are completely original! 👨‍💻✨
 
 ---
 
-## ⚙️ Cómo Empezar
+## 🚀 Key Features
 
-Para poner en marcha este proyecto en tu máquina local, sigue estos sencillos pasos.
+This project is packed with features designed to offer a complete management experience:
 
-### Prerrequisitos
+* **👥 Advanced User Management:**
+    * **Registration & Authentication:** Create new user accounts with secure credentials (email and password).
+    * **User Roles:** Differentiate between **Administrators** and **Standard Users**, each with their own permissions.
+    * **Account Status:** Manage user states such as **Enabled**, **Disabled**, or **Infraction**.
+    * **Detailed Information:** Store comprehensive user data: name, ID, phone number, and address.
 
-Asegúrate de tener instalado lo siguiente:
+* **📦 Order & Product Management (E-commerce Style):**
+    * Create and track **orders** with multiple **products**.
+    * Manage purchase **orders** and their status.
+    * Simulate **shipments** and **packages** associated with each order, with detailed tracking.
+    * An **Online Store** interface for intuitive product browsing.
 
-* **JDK (Java Development Kit)** versión 8 o superior.
-* Un IDE de tu preferencia compatible con Java, como NetBeans, IntelliJ IDEA o Eclipse.
-* **Git** (opcional, para clonar el repositorio).
+* **💸 Smart Transactions & Notifications:**
+    * Log **financial transactions** with details like payment method, issuing entity, and platform.
+    * A **notification system** to keep users informed about the status of their orders and account, including successful/failed payment messages and account updates.
+    * **User Funds System:** Users receive funds for each purchase, incentivizing future transactions.
 
-### Instalación
+* **🔄 Data Import & Export:**
+    * Take your data anywhere! Export information in `.txt` and `.csv` formats.
+    * Easily import data to populate the database in bulk.
 
-1.  **Clona el repositorio:**
+* **💻 Intuitive & Detailed Graphical Interface:**
+    * Developed entirely with **Java Swing**, offering a classic and functional user experience with custom icons.
+    * Organized and easy-to-navigate design with dedicated panels for **Overview**, **Users Manager**, **Orders Manager**, **Product Manager**, **Payments Manager**, and **Notifications**.
+
+---
+
+## 🛠️ Technologies Used
+
+* **Programming Language:** **Java** ☕
+* **Graphical Interface:** **Java Swing** 🖼️
+* **Recommended IDE:** **Apache NetBeans** or **IntelliJ IDEA** (Primarily developed using NetBeans).
+
+---
+
+## ⚙️ Getting Started
+
+To get this project up and running on your local machine, follow these simple steps.
+
+### Prerequisites
+
+Ensure you have the following installed:
+
+* **JDK (Java Development Kit)** version 8 or higher.
+* A Java-compatible IDE of your choice, such as NetBeans, IntelliJ IDEA, or Eclipse.
+* **Git** (optional, for cloning the repository).
+
+### Installation
+
+1.  **Clone the repository:**
     ```sh
-    git clone https://github.com/VileRoccieti/AllayData.git
+    git clone [https://github.com/VileRoccieti/AllayData.git](https://github.com/VileRoccieti/AllayData.git)
     ```
-2.  **Abre el proyecto en tu IDE:**
-    * Abre tu IDE preferido.
-    * Selecciona la opción para abrir un proyecto existente y navega hasta la carpeta que acabas de clonar.
+2.  **Open the project in your IDE:**
+    * Open your preferred IDE.
+    * Select the option to open an existing project and navigate to the folder you just cloned.
 
-3.  **Ejecuta la aplicación:**
-    * Busca el archivo `AllayNexo.java` (o el que contenga el método `main`) y ejecútalo.
-    * ¡Y listo! La interfaz gráfica de Allay Data debería aparecer.
-
----
-
-## 📸 Vistas Previas de la Aplicación
-
-Aquí tienes un vistazo de cómo luce nuestra aplicación en acción, destacando su interfaz y funcionalidades:
-
-### 🔑 Inicio de Sesión / Registro
-Una interfaz clara para acceder o crear nuevas cuentas.
-
-[![Inicio de Sesión](https://github.com/VileRoccieti/AllayData/blob/main/assets/im1.webp?raw=true)](https://github.com/VileRoccieti/AllayData/blob/main/assets/im1.webp?raw=true)
-
-### 🛒 Dashboard de Productos (Estilo Tienda Virtual)
-Explora y gestiona productos con detalles como ID, nombre, costo, marca y stock.
-[![Dashboard de Productos](https://github.com/VileRoccieti/AllayData/blob/main/assets/im2.webp?raw=true)](https://github.com/VileRoccieti/AllayData/blob/main/assets/im2.webp?raw=true)
-
-### 💰 Simulador de Pago Avanzado
-Detalles completos para realizar pedidos, incluyendo dirección, método de pago, entidad emisora, estado (pendiente/fallido) y opciones de entrega. ¡Además, los usuarios acumulan fondos por cada compra!
-[![Simulador de Pago](https://github.com/VileRoccieti/AllayData/blob/main/assets/im3.webp?raw=true)](https://github.com/VileRoccieti/AllayData/blob/main/assets/im3.webp?raw=true)
-
-### 👤 Gestión de Usuarios
-Panel de administración para gestionar usuarios, sus roles (Administrador/Normal), estados de cuenta (Habilitado/Deshabilitado/Infracción) y datos personales.
-[![Gestión de Usuarios](https://github.com/VileRoccieti/AllayData/blob/main/assets/im4.webp?raw=true)](https://github.com/VileRoccieti/AllayData/blob/main/assets/im4.webp?raw=true)
-
-### 📦 Gestión de Pedidos (Orders Manager)
-Administra todos los pedidos, incluyendo destinos, costos de envío, ID de clientes y el estado actual del paquete (En espera, En ruta, Entregado, etc.).
-[![Gestión de Pedidos](https://github.com/VileRoccieti/AllayData/blob/main/assets/im5.webp?raw=true)](https://github.com/VileRoccieti/AllayData/blob/main/assets/im5.webp?raw=true)
-
-### 🛍️ Gestión de Productos (Product Manager)
-Control total sobre el inventario, con detalles como ID de producto, nombre, costo, fecha de creación, empresa, tipo, peso, stock y dimensiones.
-[![Gestión de Productos](https://github.com/VileRoccieti/AllayData/blob/main/assets/im6.webp?raw=true)](https://github.com/VileRoccieti/AllayData/blob/main/assets/im6.webp?raw=true)
-
-### 💳 Gestión de Pagos (Payments Manager)
-Supervisa todas las transacciones financieras, incluyendo código de pago, ID de orden, ID de cliente, monto, método de pago, entidad emisora, plataforma y estado del pago.
-[![Gestión de Pagos](https://github.com/VileRoccieti/AllayData/blob/main/assets/im7.webp?raw=true)](https://github.com/VileRoccieti/AllayData/blob/main/assets/im7.webp?raw=true)
-
-### 🔔 Gestión de Notificaciones
-Central de notificaciones para administrar mensajes enviados a los usuarios, con detalles como ID de notificación, ID de usuario, fecha, hora, asunto, mensaje y estado (Leído/No Leído) y prioridad.
-
-*(Nota: Si tienes una octava imagen para "Gestión de Notificaciones", puedes añadirla aquí con el mismo formato que las demás).*
-
----
-## 🤝 ¿Quieres Contribuir?
-
-¡Las contribuciones son lo que hace que la comunidad de código abierto sea un lugar increíble para aprender, inspirar y crear! Cualquier contribución que hagas será **muy apreciada**.
-
-Si deseas contribuir, por favor sigue estos pasos:
-
-1.  Haz un **Fork** del proyecto.
-2.  Crea tu propia rama para la nueva funcionalidad (`git checkout -b feature/AmazingFeature`).
-3.  Haz **Commit** de tus cambios (`git commit -m 'Add some AmazingFeature'`).
-4.  Haz **Push** a tu rama (`git push origin feature/AmazingFeature`).
-5.  Abre un **Pull Request**.
+3.  **Run the application:**
+    * Find the `AllayNexo.java` file (or the one containing the `main` method) and run it.
+    * And you're set! The Allay Data GUI should now appear.
 
 ---
 
-## 📜 Licencia
+## 📸 Application Previews
 
-Este proyecto está distribuido bajo la Licencia MIT. Consulta el archivo `LICENSE` para más información.
+Here’s a look at our application in action, highlighting its interface and features:
+
+### 🔑 Login / Registration
+A clean interface to access or create new accounts.
+
+[![Login/Registration](https://github.com/VileRoccieti/AllayData/blob/main/assets/im1.webp?raw=true)](https://github.com/VileRoccieti/AllayData/blob/main/assets/im1.webp?raw=true)
+
+### 🛒 Product Dashboard (E-commerce Style)
+Browse and manage products with details like ID, name, cost, brand, and stock.
+[![Product Dashboard](https://github.com/VileRoccieti/AllayData/blob/main/assets/im2.webp?raw=true)](https://github.com/VileRoccieti/AllayData/blob/main/assets/im2.webp?raw=true)
+
+### 💰 Advanced Payment Simulator
+Complete details for placing orders, including address, payment method, issuing entity, status (pending/failed), and delivery options. Plus, users accumulate funds with every purchase!
+[![Payment Simulator](https://github.com/VileRoccieti/AllayData/blob/main/assets/im3.webp?raw=true)](https://github.com/VileRoccieti/AllayData/blob/main/assets/im3.webp?raw=true)
+
+### 👤 User Management
+Admin panel to manage users, their roles (Admin/Standard), account status (Enabled/Disabled/Infraction), and personal data.
+[![User Management](https://github.com/VileRoccieti/AllayData/blob/main/assets/im4.webp?raw=true)](https://github.com/VileRoccieti/AllayData/blob/main/assets/im4.webp?raw=true)
+
+### 📦 Orders Manager
+Manage all orders, including destinations, shipping costs, customer IDs, and the current package status (Pending, In transit, Delivered, etc.).
+[![Orders Manager](https://github.com/VileRoccieti/AllayData/blob/main/assets/im5.webp?raw=true)](https://github.com/VileRoccieti/AllayData/blob/main/assets/im5.webp?raw=true)
+
+### 🛍️ Product Manager
+Full control over inventory, with details like product ID, name, cost, creation date, company, type, weight, stock, and dimensions.
+[![Product Manager](https://github.com/VileRoccieti/AllayData/blob/main/assets/im6.webp?raw=true)](https://github.com/VileRoccieti/AllayData/blob/main/assets/im6.webp?raw=true)
+
+### 💳 Payments Manager
+Supervise all financial transactions, including payment code, order ID, customer ID, amount, payment method, issuing entity, platform, and payment status.
+[![Payments Manager](https://github.com/VileRoccieti/AllayData/blob/main/assets/im7.webp?raw=true)](https://github.com/VileRoccieti/AllayData/blob/main/assets/im7.webp?raw=true)
+
+### 🔔 Notifications Manager
+A notification center to manage messages sent to users, with details like notification ID, user ID, date, time, subject, message, status (Read/Unread), and priority.
+
+*(Note: If you have an eighth image for the "Notifications Manager," you can add it here using the same format.)*
+
+---
+## 🤝 Contributing
+
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+If you wish to contribute, please follow these steps:
+
+1.  **Fork** the Project.
+2.  Create your Feature Branch (`git checkout -b feature/AmazingFeature`).
+3.  **Commit** your Changes (`git commit -m 'Add some AmazingFeature'`).
+4.  **Push** to the Branch (`git push origin feature/AmazingFeature`).
+5.  Open a **Pull Request**.
 
 ---
 
-¡Gracias por visitar nuestro repositorio! Si te gusta este proyecto, ¡no olvides darle una ⭐!
+## 📜 License
+
+Distributed under the MIT License. See the `LICENSE` file for more information.
+
+---
+
+Thank you for visiting our repository! If you like this project, don't forget to give it a ⭐!
