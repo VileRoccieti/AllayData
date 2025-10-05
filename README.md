@@ -71,7 +71,7 @@ Asegúrate de tener instalado lo siguiente:
 
 1.  **Clona el repositorio:**
     ```sh
-    git clone [https://github.com/VileRoccieti/AllayData.git](https://github.com/VileRoccieti/AllayData.git)
+    git clone https://github.com/VileRoccieti/AllayData.git
     ```
 2.  **Abre el proyecto en tu IDE:**
     * Abre tu IDE preferido.
